@@ -1,0 +1,13 @@
+ID;Cim;Mufaj;Platform;Megjelenes;Ar;Ertekeles;Multiplayer
+1;Minecraft;Sandbox;PC;2011;11000;9;Igen
+2;GTA V;Akció;PC;2013;12000;9;Igen
+3;The Witcher 3;RPG;PC;2015;9000;10;Nem
+4;FIFA 23;Sport;PlayStation;2022;15000;7;Igen
+5;Cyberpunk 2077;RPG;PC;2020;18000;8;Nem
+6;Fortnite;Battle Royale;Xbox;2017;0;8;Igen
+7;Elden Ring;RPG;PlayStation;2022;22000;10;Igen
+8;Forza Horizon 5;Verseny;Xbox;2021;19000;9;Igen
+9;Stardew Valley;Szimuláció;PC;2016;5000;9;Igen
+10;God of War;Akció;PlayStation;2018;14000;10;Nem
+11;Valorant;FPS;PC;2020;0;8;Igen
+12;Hogwarts Legacy;RPG;PC;2023;20000;8;Nem
